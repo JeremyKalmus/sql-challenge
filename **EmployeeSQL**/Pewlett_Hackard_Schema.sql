@@ -1,4 +1,4 @@
-﻿--Create tables and Columns with PK and FK relationships, import data, confirm data is in the DB
+--Create tables and Columns with PK and FK relationships, import data, confirm data is in the DB
 
 CREATE TABLE titles(
     title_id VARCHAR  NOT NULL PRIMARY KEY,
